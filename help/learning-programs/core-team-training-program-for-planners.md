@@ -3,9 +3,9 @@ title: Formación del equipo principal para los planificadores en la nueva exper
 description: asignación de cursos de workfront one a cursos de experience league
 exl-id: 3a4fdf75-2ac7-4f00-b84c-61e3ff99be81
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ Este programa contiene los temas esenciales necesarios para la incorporación co
 
 >[!IMPORTANT]
 >
->**Tenga en cuenta que este antiguo programa de aprendizaje de Workfront One ahora está asignado a los cursos de Workfront para Experience League recién migrados y optimizados.  Todos los objetivos de aprendizaje se cubren con la nueva estructura.**.
+>**Tenga en cuenta que este antiguo programa de aprendizaje de Workfront One ahora está asignado a los cursos de Workfront para Experience League recién migrados y optimizados.  Todos los mismos objetivos de aprendizaje se cubren con la nueva estructura.**.
 
 <table>
   <tr>
@@ -29,10 +29,10 @@ Este programa contiene los temas esenciales necesarios para la incorporación co
       </div>
       <p>
         <br/>
-         Inicie la recorrido de Workfront aprendiendo a crear y planificar proyectos. Workfront recomienda mantener las cosas simples.
+         Inicie el recorrido de Workfront aprendiendo a crear y planificar proyectos. Workfront recomienda mantener las cosas simples.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir a curso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir al curso</span>
       </a>
    </td>   
    <td>
@@ -48,7 +48,7 @@ Este programa contiene los temas esenciales necesarios para la incorporación co
          Ahora que ha aprendido a crear y planificar proyectos, podemos empezar a administrarlos y cerrarlos.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir a curso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir al curso</span>
       </a>
    </td>
     <td>
@@ -64,17 +64,17 @@ Este programa contiene los temas esenciales necesarios para la incorporación co
          Una vez que haya aprendido los conceptos básicos de la creación, planificación y administración de proyectos, hay algunas cosas más que debe saber para aprovechar al máximo Workfront.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir a curso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir al curso</span>
       </a>
    </td>
   </tr>
   <tr>
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting">
-      <img alt="Elementos básicos de informes" src="https://cdn.experienceleague.adobe.com/thumb/basic-reporting-elements.png"/>
+      <img alt="Elementos básicos de creación de informes" src="https://cdn.experienceleague.adobe.com/thumb/basic-reporting-elements.png"/>
       </a>
       <div>
-         <strong>Elementos básicos de informes</strong></a>         
+         <strong>Elementos de creación de informes básicos</strong></a>         
          <br/><em>44 minutos</em>
       </div>
       <p>
@@ -82,7 +82,7 @@ Este programa contiene los temas esenciales necesarios para la incorporación co
          Los elementos de creación de informes son los filtros, vistas y agrupaciones que se encuentran en todos los informes de lista de Workfront. Aprender a usar estos métodos le ayudará a crear informes y calendarios personalizados.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir a curso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir al curso</span>
       </a>
    </td>   
    <td>
@@ -106,7 +106,7 @@ Este programa contiene los temas esenciales necesarios para la incorporación co
       <img alt="Crear un calendario personalizado" src="https://cdn.experienceleague.adobe.com/thumb/create-a-custom-calendar.png"/>
       </a>
       <div>
-         <strong>Crear un calendario personalizado</strong></a>         
+         <strong>Creación de un calendario personalizado</strong></a>         
          <br/><em>1 hora y 6 minutos</em>
       </div>
       <p>
@@ -124,7 +124,7 @@ Este programa contiene los temas esenciales necesarios para la incorporación co
       <img alt="Crear y administrar formularios personalizados" src="https://cdn.experienceleague.adobe.com/thumb/create-and-manage-custom-forms.png"/>
       </a>
       <div>
-         <strong>Crear y administrar formularios personalizados</strong></a>         
+         <strong>Creación y administración de formularios personalizados</strong></a>         
          <br/><em>20 minutos</em>
       </div>
       <p>
@@ -137,10 +137,10 @@ Este programa contiene los temas esenciales necesarios para la incorporación co
    </td>   
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.request-queues">
-      <img alt="Solicitar administración de colas" src="https://cdn.experienceleague.adobe.com/thumb/request-queue-management.png"/>
+      <img alt="Administración de cola de solicitudes" src="https://cdn.experienceleague.adobe.com/thumb/request-queue-management.png"/>
       </a>
       <div>
-         <strong>Solicitar administración de colas</strong></a>         
+         <strong>Administración de cola de solicitudes</strong></a>         
          <br/><em>20 minutos</em>
       </div>
       <p>
@@ -156,7 +156,7 @@ Este programa contiene los temas esenciales necesarios para la incorporación co
 
 ## Recursos adicionales
 
-* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Comunidades Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=es&amp;Solution=Workfront#courses)
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=es)
+* [Tutoriales de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=es)
+* [Comunidades de Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

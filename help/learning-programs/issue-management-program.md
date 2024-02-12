@@ -3,9 +3,9 @@ title: Administración de problemas para la nueva experiencia de Workfront
 description: asignación de cursos de workfront one a cursos de experience league
 exl-id: 0c6828e9-5c08-4d47-9fbd-72812ecc0f4a
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ Obtenga información sobre cómo administrar el trabajo no planificado mediante 
 
 >[!IMPORTANT]
 >
->**Tenga en cuenta que este antiguo programa de aprendizaje de Workfront One ahora está asignado a los cursos de Workfront para Experience League recién migrados y optimizados.  Todos los objetivos de aprendizaje se cubren con la nueva estructura.**.
+>**Tenga en cuenta que este antiguo programa de aprendizaje de Workfront One ahora está asignado a los cursos de Workfront para Experience League recién migrados y optimizados.  Todos los mismos objetivos de aprendizaje se cubren con la nueva estructura.**.
 
 <table>
   <tr>
@@ -32,21 +32,21 @@ Obtenga información sobre cómo administrar el trabajo no planificado mediante 
          Una vez que haya aprendido los conceptos básicos de la creación, planificación y administración de proyectos, hay algunas cosas más que debe saber para aprovechar al máximo Workfront.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir a curso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir al curso</span>
       </a>
    </td>
    <td>
-      <a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/create-an-issue-status.html?lang=en">
-      <img alt="Tutorial sobre Creación de un estado de problema" src="https://cdn.experienceleague.adobe.com/thumb/docs-workfront.png"/>
+      <a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/create-an-issue-status.html?lang=es">
+      <img alt="Crear un tutorial del estado de los problemas" src="https://cdn.experienceleague.adobe.com/thumb/docs-workfront.png"/>
       </a>
       <div>
-         <strong>Tutorial sobre Creación de un estado de problema</strong></a>
+         <strong>Crear un tutorial de estado de problemas</strong></a>
       </div>
       <p>
         <br/>
-         Workfront recomienda modificar los estados de problemas existentes en el sistema antes de empezar a crear nuevos estados. Esto ayuda a limitar el número de estados que deben mantenerse.
+ Workfront recomienda modificar los estados de problema existentes en el sistema antes de empezar a crear estados nuevos. Esto ayuda a limitar el número de estados que deben mantenerse.
       </p>
-      <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/create-an-issue-status.html?lang=en" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
+      <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/create-an-issue-status.html?lang=es" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir a tutorial</span>
       </a>
    </td> 
@@ -56,7 +56,7 @@ Obtenga información sobre cómo administrar el trabajo no planificado mediante 
 
 ## Recursos adicionales
 
-* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Comunidades Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=es&amp;Solution=Workfront#courses)
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=es)
+* [Tutoriales de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=es)
+* [Comunidades de Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

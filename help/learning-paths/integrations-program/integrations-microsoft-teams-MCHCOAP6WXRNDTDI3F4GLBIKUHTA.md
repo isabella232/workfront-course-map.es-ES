@@ -1,21 +1,21 @@
 ---
-title: Workfront para Microsofts Teams
+title: Workfront para Microsoft Teams
 description: asignación de cursos de workfront one a cursos de experience league
 exl-id: be19e969-22bd-42fd-b1c8-59380be3fd20
 source-git-commit: b0ac8b76071ade5f59b51060d2af3909c740c8b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Workfront para Microsofts Teams
+# Workfront para Microsoft Teams
 
-El *Workfront para Microsofts Teams* La ruta de aprendizaje de Workfront One ahora está asignada a los tutoriales de Experience League Workfront recién migrados y optimizados. En los nuevos tutoriales se captura toda la información. Navegar al nuevo Experience League [Tutorials de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)y busque la variable *Integraciones* en la navegación izquierda de la página de Tutorials.
+La ruta de aprendizaje de Workfront One *Workfront para Microsoft Teams* ahora está asignada a los tutoriales de Workfront de Experience League recién migrados y optimizados. En los nuevos tutoriales se captura toda la misma información. Navegar a los nuevos [Tutoriales de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=es) de Experience League y busque el listado *Integraciones* en la navegación izquierda de la página de Tutoriales.
 
 ## Recursos adicionales
 
-* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Comunidades Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=es&amp;Solution=Workfront#courses)
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=es)
+* [Tutoriales de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=es)
+* [Comunidades de Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

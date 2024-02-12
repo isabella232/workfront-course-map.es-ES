@@ -1,22 +1,22 @@
 ---
-title: Escalas de tiempo del proyecto
+title: Cronologías del proyecto
 description: asignación de cursos de workfront one a cursos de experience league
 exl-id: bea72a3b-24d9-4c19-9032-0b66a3393e29
 source-git-commit: b0ac8b76071ade5f59b51060d2af3909c740c8b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Escalas de tiempo del proyecto
+# Cronologías del proyecto
 
 Las dos rutas de aprendizaje de Workfront One siguientes,
 
 * Aspectos básicos del planificador para la nueva experiencia de Workfront, parte 3: Administración de un proyecto
 * Aspectos básicos del planificador para la nueva experiencia de Workfront, parte 4: Cerrar un proyecto
-* Escalas de tiempo del proyecto
+* Cronologías del proyecto
 
 se han combinado en un único curso de Experience League, [Administración y cierre de un proyecto](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners){target="_blank"}.
 
@@ -24,7 +24,7 @@ El nuevo curso de Experience League abarca los mismos objetivos de aprendizaje q
 
 ## Recursos adicionales
 
-* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Comunidades Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=es&amp;Solution=Workfront#courses)
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=es)
+* [Tutoriales de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=es)
+* [Comunidades de Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

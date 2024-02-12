@@ -1,21 +1,21 @@
 ---
-title: 'Información general: Revisión en Workfront en la nueva experiencia de Workfront'
+title: 'Información general: revisión en Workfront en la nueva experiencia de Workfront'
 description: asignación de cursos de workfront one a cursos de experience league
 exl-id: aad589bc-c65e-4c28-92c1-b9c087ed7ea8
 source-git-commit: e1850919d89aafd4cee3a0c7e83a98c71bc33382
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Información general: Revisión en Workfront en la nueva experiencia de Workfront
+# Información general: revisión en Workfront en la nueva experiencia de Workfront
 
 Las siguientes rutas de aprendizaje de Workfront One,
 
-* Información general: Revisión en Workfront en la nueva experiencia de Workfront
+* Información general: revisión en Workfront en la nueva experiencia de Workfront
 * Revisar y aprobar pruebas en la nueva experiencia de Workfront
-* Workfront para usuarios de revisión
+* Workfront para los usuarios de la revisión
 * Administrar revisiones y aprobaciones con revisión
 
 se han combinado en un único curso de Experience League, [Workfront Proof: revisar y aprobar el trabajo](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof){target="_blank"}.
@@ -24,7 +24,7 @@ El nuevo curso de Experience League abarca los mismos objetivos de aprendizaje q
 
 ## Recursos adicionales
 
-* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Comunidades Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=es&amp;Solution=Workfront#courses)
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=es)
+* [Tutoriales de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=es)
+* [Comunidades de Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

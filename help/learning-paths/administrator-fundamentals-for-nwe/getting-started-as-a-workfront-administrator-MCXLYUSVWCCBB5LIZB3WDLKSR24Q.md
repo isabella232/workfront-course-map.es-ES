@@ -3,9 +3,9 @@ title: Introducción a Workfront para administradores de sistemas
 description: asignación de cursos de workfront one a cursos de experience league
 exl-id: f316aec3-8c1e-4745-b993-ae8789c5c4be
 source-git-commit: a35951f56d4d0b0c978b11671ca119541234270a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 4%
 
 Las siguientes rutas de aprendizaje de Workfront One,
 
-* Añadir usuarios a Workfront
+* Agregar usuarios a Workfront
 * Aspectos básicos del administrador, parte 1: Organización del usuario
 * Aspectos básicos del administrador, parte 2: Configuración del proyecto
 * Aspectos básicos del administrador, parte 3: Control e interfaz
@@ -30,7 +30,7 @@ Los nuevos cursos de Experience League cubren los mismos objetivos de aprendizaj
 
 ## Recursos adicionales
 
-* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Comunidades Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=es&amp;Solution=Workfront#courses)
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=es)
+* [Tutoriales de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=es)
+* [Comunidades de Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

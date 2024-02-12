@@ -3,15 +3,15 @@ title: Análisis mejorado
 description: asignación de cursos de workfront one a cursos de experience league
 exl-id: a3aaa1f8-047e-4d5b-9740-3526a378689d
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Análisis mejorado
 
-Actualmente estamos reconstruyendo el contenido de este curso para Experience League.  Lamentamos cualquier inconveniente que pueda causarle.  Esperamos tener pronto en línea este contenido del curso.
+Actualmente, estamos reconstruyendo el contenido de este curso para Experience League.  Lamentamos cualquier inconveniente que pueda causarle. Esperamos tener pronto en línea este contenido del curso.
 
 <!---Learn how to manage your current work and plan future work more accurately by identifying data trends.
 
@@ -94,7 +94,7 @@ Actualmente estamos reconstruyendo el contenido de este curso para Experience Le
 
 ## Recursos adicionales
 
-* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Comunidades Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=es&amp;Solution=Workfront#courses)
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=es)
+* [Tutoriales de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=es)
+* [Comunidades de Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

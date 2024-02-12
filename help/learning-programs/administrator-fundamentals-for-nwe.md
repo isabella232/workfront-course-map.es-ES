@@ -3,9 +3,9 @@ title: Aspectos básicos del administrador para la nueva experiencia de Workfron
 description: asignación de cursos de workfront one a cursos de experience league
 exl-id: b4033c37-d8a5-469a-abf7-a09ab47a1ede
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '356'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ Tanto si va a implementar un sistema nuevo como si va a actualizar uno existente
 
 >[!IMPORTANT]
 >
->**Tenga en cuenta que este antiguo programa de aprendizaje de Workfront One ahora está asignado a los cursos de Workfront para Experience League recién migrados y optimizados.  Todos los objetivos de aprendizaje se cubren con la nueva estructura.**.
+>**Tenga en cuenta que este antiguo programa de aprendizaje de Workfront One ahora está asignado a los cursos de Workfront para Experience League recién migrados y optimizados.  Todos los mismos objetivos de aprendizaje se cubren con la nueva estructura.**.
 
 <table>
   <tr>
@@ -32,7 +32,7 @@ Tanto si va a implementar un sistema nuevo como si va a actualizar uno existente
          Conozca las primeras etapas de cómo configurar usuarios y optimizar su experiencia con la configuración del sistema.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir a curso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir al curso</span>
       </a>
    </td>   
    <td>
@@ -48,7 +48,7 @@ Tanto si va a implementar un sistema nuevo como si va a actualizar uno existente
          Obtenga más información acerca de la configuración del sistema para mejorar la experiencia de los usuarios, incluida la organización de estos, los formularios personalizados, los procesos y los hitos de aprobación y las plantillas de diseño.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir a curso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir al curso</span>
       </a>
    </td>
     <td>
@@ -64,17 +64,17 @@ Tanto si va a implementar un sistema nuevo como si va a actualizar uno existente
          Una vez que haya aprendido los conceptos básicos de la creación, planificación y administración de proyectos, hay algunas cosas más que debe saber para aprovechar al máximo Workfront.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir a curso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir al curso</span>
       </a>
    </td>
   </tr>
   <tr>
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting">
-      <img alt="Elementos básicos de informes" src="https://cdn.experienceleague.adobe.com/thumb/basic-reporting-elements.png"/>
+      <img alt="Elementos básicos de creación de informes" src="https://cdn.experienceleague.adobe.com/thumb/basic-reporting-elements.png"/>
       </a>
       <div>
-         <strong>Elementos básicos de informes</strong></a>
+         <strong>Elementos básicos de creación de informes</strong></a>
          <br/><em>44 minutos</em>
       </div>
       <p>
@@ -82,7 +82,7 @@ Tanto si va a implementar un sistema nuevo como si va a actualizar uno existente
          Los elementos de creación de informes son los filtros, vistas y agrupaciones que se encuentran en todos los informes de lista de Workfront. Aprender a usar estos métodos le ayudará a crear informes y calendarios personalizados.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir a curso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir al curso</span>
       </a>
    </td>
    <td>
@@ -123,7 +123,7 @@ Tanto si va a implementar un sistema nuevo como si va a actualizar uno existente
 
 ## Recursos adicionales
 
-* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Comunidades Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=es&amp;Solution=Workfront#courses)
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=es)
+* [Tutoriales de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=es)
+* [Comunidades de Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

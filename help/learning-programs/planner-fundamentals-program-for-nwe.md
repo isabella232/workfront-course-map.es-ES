@@ -3,9 +3,9 @@ title: Aspectos básicos del planificador para la nueva experiencia de Workfront
 description: asignación de cursos de workfront one a cursos de experience league
 exl-id: 0c024819-6adc-4d59-95d0-e38ef6636bca
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '247'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ Cuando aprende a administrar proyectos por primera vez, Workfront recomienda que
 
 >[!IMPORTANT]
 >
->**Tenga en cuenta que este antiguo programa de aprendizaje de Workfront One ahora está asignado a los cursos de Workfront para Experience League recién migrados y optimizados.  Todos los objetivos de aprendizaje se cubren con la nueva estructura.**.
+>**Tenga en cuenta que este antiguo programa de aprendizaje de Workfront One ahora está asignado a los cursos de Workfront para Experience League recién migrados y optimizados.  Todos los mismos objetivos de aprendizaje se cubren con la nueva estructura.**.
 
 <table>
   <tr>
@@ -29,10 +29,10 @@ Cuando aprende a administrar proyectos por primera vez, Workfront recomienda que
       </div>
       <p>
         <br/>
-         Este curso es para personas que trabajan con solicitudes de.
+         Este curso es para personas que trabajan con solicitudes.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.request-queues" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir a curso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir al curso</span>
       </a>
    </td>   
    <td>
@@ -45,10 +45,10 @@ Cuando aprende a administrar proyectos por primera vez, Workfront recomienda que
       </div>
       <p>
         <br/>
-         Inicie la recorrido de Workfront aprendiendo a crear y planificar proyectos. Workfront recomienda mantener las cosas simples.
+         Inicie el recorrido de Workfront aprendiendo a crear y planificar proyectos. Workfront recomienda mantener las cosas simples.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir a curso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir al curso</span>
       </a>
    </td>
     <td>
@@ -64,7 +64,7 @@ Cuando aprende a administrar proyectos por primera vez, Workfront recomienda que
          Ahora que ha aprendido a crear y planificar proyectos, podemos empezar a administrarlos y cerrarlos.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir a curso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir al curso</span>
       </a>
    </td>
   </tr>
@@ -82,7 +82,7 @@ Cuando aprende a administrar proyectos por primera vez, Workfront recomienda que
          Una vez que haya aprendido los conceptos básicos de la creación, planificación y administración de proyectos, hay algunas cosas más que debe saber para aprovechar al máximo Workfront.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir a curso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir al curso</span>
       </a>
    </td>
   </tr>
@@ -91,7 +91,7 @@ Cuando aprende a administrar proyectos por primera vez, Workfront recomienda que
 
 ## Recursos adicionales
 
-* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Comunidades Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=es&amp;Solution=Workfront#courses)
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=es)
+* [Tutoriales de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=es)
+* [Comunidades de Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

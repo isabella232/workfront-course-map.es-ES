@@ -3,9 +3,9 @@ title: 'Configuración del sistema de pruebas, parte 2: Administración del fluj
 description: asignación de cursos de workfront one a cursos de experience league
 exl-id: bc124e74-43c9-4fb0-89d8-2dbad8b022d1
 source-git-commit: a35951f56d4d0b0c978b11671ca119541234270a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ El nuevo curso de Experience League abarca los mismos objetivos de aprendizaje q
 
 ## Recursos adicionales
 
-* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Comunidades Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Cursos de Workfront](https://experienceleague.adobe.com/?lang=es&amp;Solution=Workfront#courses)
+* [Documentación de Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=es)
+* [Tutoriales de Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=es)
+* [Comunidades de Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
